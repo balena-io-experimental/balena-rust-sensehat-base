@@ -1,0 +1,8 @@
+[package]
+name = "sensehat-base-rs"
+version = "0.1.0"
+authors = ["Rahul Thakoor <rahul.thakoor@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sensehat-screen = "^0.2.3"
